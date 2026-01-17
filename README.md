@@ -114,7 +114,7 @@ Once running, your bot will start responding to messages on Telegram.
 
 ## 📸 Screenshot
 
-![Bot Screenshot](screenshot.png)
+![Bot Screenshot](Telegram-Bot/screenshot.png)
 
 ---
 
